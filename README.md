@@ -1,3 +1,7 @@
-# color_letters
+# Color_letters
 Função em JavaScript que, quando se passa o mouse por cima da letra, altera a cor. 
-https://github.com/leopesi/color_letters/issues/1#issue-614909698
+
+<hr>
+
+### Exemplo 
+![](https://user-images.githubusercontent.com/52714788/81437178-1e91e100-9141-11ea-9549-afa59521e3a0.png)
