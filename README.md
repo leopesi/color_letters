@@ -1,5 +1,7 @@
 # Color_letters
-Função em JavaScript que, quando se passa o mouse por cima da letra, altera a cor. 
+Função em JavaScript que, quando se passa o mouse por cima da letra, altera a cor aleatoriamente. 
+
+*JavaScript function that changes the color randomly when the mouse is moved over the letter.*
 
 <hr>
 
